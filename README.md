@@ -7,5 +7,5 @@
 *  **Language:** Python
 *  **Tools:** Git, Github, VS Code 🛠️
 
-### 📫📫 Connect with me 
+### 📫 Connect with me 
 * [LinkedIn](https://www.linkedin.com/in/sejal-dixit-844a813a0) 🔗
