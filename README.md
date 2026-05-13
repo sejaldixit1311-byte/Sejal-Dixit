@@ -1,7 +1,7 @@
 # Hi, I'm Sejal Dixit 
 
-### 🎓 Eduction
- ** B.Tech in CSE (AI & Machine Learning)** | *VIT Bhopal University (2025- 2029)* 
+### 🎓 Education
+ * **B.Tech in CSE (AI & Machine Learning)** | *VIT Bhopal University (2025- 2029)* 
 
 ### 💻 Tech Stack 
 *  **Language:** Python
